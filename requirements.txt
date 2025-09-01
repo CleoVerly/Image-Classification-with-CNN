@@ -1,0 +1,7 @@
+tensorflow
+matplotlib
+numpy
+kagglehub
+pathlib
+seaborn
+pandas
